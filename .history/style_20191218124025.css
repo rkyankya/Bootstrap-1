@@ -22,18 +22,12 @@ body {
 
 .carousel-caption {
     position: absolute;
-    top: 60%;
+    top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     -o-transform: translateY(-50%);
-}
-
-.carousel-caption h1 {
-    font-size: 500%;
-    text-transform: uppercase;
-    text-shadow: 1px 1px 10px #000;
 }
 
 
